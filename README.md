@@ -49,5 +49,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Simulation Labs
-Azure HomeLab 
+<a href = "https://github.com/Naza6/Detection-Lab">Simple Azure Lab</a>
 
