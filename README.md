@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution       | SOC Automation Lab|
 | Digital Forensics                              | SOC Automation Lab|
-| Scripting and Automation                       | SOC Automation Lab|
+| Scripting and Automation                       | Simple Scripts|
 
 ## Tools
 
