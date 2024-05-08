@@ -49,5 +49,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Simulation Labs
-- <a> href= "![image](https://github.com/Naza6/Naza6/assets/122112316/345b77a3-a10d-4103-86a7-97fe3c531471)" </a>Azure HomeLab 
+Azure HomeLab 
 
