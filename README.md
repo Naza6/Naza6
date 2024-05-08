@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to explore and gain experience in this field.
+My journey in computer science has led me to develop an interest in cybersecurity, and I am eager to explore and gain experience in this field.
 
 ## Projects Snippets
 
