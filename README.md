@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Digital Forensics                              | <a href = "https://github.com/Naza6/Digital-Forensics"> Dig Projects|
 | Scripting and Automation                       | <a href = "https://github.com/Naza6/Simple-ps1-Scripts/tree/main">Simple Scripts</a>|
+| Password Attacks                               | <a href = "https://github.com/danyaln/Touch-stroke-dictionary-attack"> Attack</a>|
 
 ## Tools
 
