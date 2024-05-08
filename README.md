@@ -40,6 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-NIST-0078D4?&style=for-the-badge&logo=NIST&logoColor=white" />
     <img src="https://img.shields.io/badge/-PIPEDA-FFC0CB?&style=for-the-badge&logo=PIPEDA&logoColor=white" />
     <img src="https://img.shields.io/badge/-GDPR-FFA500?&style=for-the-badge&logo=GDPR&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE-FF0000?&style=for-the-badge&logo=MITRE&logoColor=white" />
 </div>
 
 ### Certifications
