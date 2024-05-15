@@ -11,7 +11,7 @@ My journey in computer science has led me to develop an interest in cybersecurit
 
 | Skill Acquired                                  | Associated Projects      |
 |-----------------------------------------------|----------------------------|
-| Digital Forensics                              | <a href = "https://github.com/Naza6/Digital-Forensics"> Dig Projects|
+| Malware Analysis                              | <a href = "https://github.com/Naza6/Digital-Forensics"> Malware Analysis|
 | Scripting and Automation                       | <a href = "https://github.com/Naza6/Simple-ps1-Scripts/tree/main">Simple Scripts</a>|
 | Penetration Testing                            | <a href = "https://github.com/danyaln/Touch-stroke-dictionary-attack"> Attack</a>|
 
